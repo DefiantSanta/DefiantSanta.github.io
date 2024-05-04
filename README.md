@@ -13,7 +13,7 @@
     </head>
     <body>
         
-        <h1 id="maintitle">Jose's blog</h1>
+        <h1 id="maintitle">J's blog</h1>
 
         <h3>Contents</h3>
         <ul>
